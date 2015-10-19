@@ -1,5 +1,6 @@
 {
   "name": "gitHubChallenge",
+  "homepage": "https://github.com/catherinestevenson/github-challenge",
   "authors": [
     "catherinestevenson <catherine.stevenson14@yahoo.co.uk>"
   ],
@@ -7,7 +8,6 @@
   "main": "",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -20,5 +20,9 @@
     "bootstrap": "~3.3.5",
     "angular": "~1.4.7",
     "angular-resource": "~1.4.7"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.7",
+    "angular-route": "~1.4.7"
   }
 }
